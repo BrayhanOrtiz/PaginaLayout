@@ -1,0 +1,91 @@
+/*
+/* selector universal  -->(*)        casi no se usa, solo para el tamaño del texto, (espacios)
+
+
+h1,
+h2 {
+    /*Titulos
+    color: darkblue;
+}
+
+body {
+    background-color: hotpink;
+}
+
+a[href="https: //:www.google.com"] {
+    /*Esta etiqueta es la de los enlaces ADEMAS LE ATRIBUTOS PARA UN ITEM EN ESPECIFICO
+    font-size: 48px;
+    /*tamaño
+    color: brown;
+}
+
+p b {
+    /*esta etiqueta es la de parrafo
+    color: blueviolet
+}
+
+
+dd b {
+    /*Etiqueta para hacer descripcion
+    color: black;
+
+}
+
+
+article {
+    background-color: green;
+    width: 50%;
+}
+
+.verde {
+    /*. el . hace referencia a alguna clase
+    background-position: 50px;
+}
+
+#verde {
+    background-color: brown;
+    color: gold;
+    font-size: 25px;
+    font-family: cursive;
+
+}
+
+aside {
+    background-color: rgb(229, 255, 0);
+}
+
+#imagenprincipal {
+    padding: 40px;
+}
+*/
+
+body {
+    background-image: url(../imagenes/fondo.png);
+    /* IMAGENES DE FONDO*/
+    font-size: 10px;
+    color: rgba (20, 12, 107, 2)
+        /* */
+
+
+}
+
+h1 {
+    font-size: 2em;
+    color: #081766;
+}
+
+div {
+    font-size: 25px;
+    color: rgb(19, 112, 49);
+
+
+    border: 10px dotted black;
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+
+}
+
+p b {
+    font-size: 2em;
+}
